@@ -1,0 +1,8 @@
+To change the logo, background images, or colors use this https://bdeditor.dev/theme/clearvision
+
+If you change anything with the online editor open the new theme file in your IDE, or notepad and change this link "https://clearvision.github.io/ClearVision-v6/main.css" for one of these depending on what you want:
+
+https://jakek34959.github.io/CV-Templar-Order/main.css
+https://jakek34959.github.io/CV-Assassin-Brotherhood/main.css
+https://jakek34959.github.io/CV-Abstergo-Entertainment/main.css
+https://jakek34959.github.io/CV-Abstergo-Industries/main.css
